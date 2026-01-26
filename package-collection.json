@@ -1,0 +1,19 @@
+{
+	"name": "DLDSwiftyFaves",
+	"overview": "A collection of DiLieDevs' favorite packages for Swift and SwiftUI.",
+	"keywords": ["SwiftUI", "iOS", "Charts", "Swift", "macOS"],
+	"author": {
+		"name": "Dionne Lie Sam Foek"
+	},
+	"packages": [
+		{ "url": "https://github.com/diliedevs/DLDSwiftUI.git" },
+		{ "url": "https://github.com/SFSafeSymbols/SFSafeSymbols.git" },
+		{ "url": "https://github.com/fatbobman/ObservableDefaults.git" },
+		{ "url": "https://github.com/vadymmarkov/Fakery.git" },
+		{ "url": "https://github.com/swiftlang/swift-subprocess.git" },
+		{ "url": "https://github.com/diliedevs/DLDHolidays.git" },
+		{ "url": "https://github.com/DnV1eX/EnumOptionSet.git" },
+		{ "url": "https://github.com/yannickl/DynamicColor.git" },
+		{ "url": "https://github.com/diliedevs/DLDStarGazer.git" },
+	]
+}
